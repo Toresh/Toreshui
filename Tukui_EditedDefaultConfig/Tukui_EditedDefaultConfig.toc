@@ -1,0 +1,8 @@
+## Interface: 40300
+## Title: |cffC495DDTukui Edited Default Option|r
+## Notes: Custom Default Configuration for Toreshui.
+## Author: Toresh
+## RequiredDeps: Tukui_ConfigUI, Toreshui
+
+
+config\config.lua

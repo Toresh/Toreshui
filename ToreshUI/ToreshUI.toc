@@ -1,0 +1,8 @@
+## Interface: 40300
+## Title: |cffC495DDToresh UI|r
+## Version: 0.01Beta
+## Notes: An edit of Tukui.
+## Author: Toresh
+## RequiredDeps: Tukui, Tukui_ConfigUI, Tukui_EditedDefaultConfig
+
+ToreshUI.xml

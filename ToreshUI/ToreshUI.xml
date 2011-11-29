@@ -1,0 +1,10 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+
+	<Script file="functions.lua"/>
+	<Script file="unitframes.lua"/>
+	<Script file="unitframes1.lua"/>
+	<Script file="panels.lua"/>
+	<Script file="datatext.lua"/>
+	<Script file="actionbars.lua"/>
+	<Script file="chat.lua"/>
+</Ui>
